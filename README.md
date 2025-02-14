@@ -1,39 +1,27 @@
-# moneygone
+## About The Project
+Expense Tracker.
 
-This template should help get you started developing with Vue 3 in Vite.
+### Built With
 
-## Recommended IDE Setup
+* [Vuejs](https://vuejs.org/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Getting Started
 
-## Type Support for `.vue` Imports in TS
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+### Installation
 
-## Customize configuration
+1. Clone the repo
+   ```sh
+   git clone git@github.com:Ulises-Saucedo/MoneyGone.git
+   ```
+2. Install NPM packages
+   ```sh
+   cd MoneyGone && npm install
+   ```
+3. Run server
+    ```
+    npm run dev  
+    ```
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
