@@ -4,6 +4,7 @@ Expense Tracker.
 ### Built With
 
 * [Vuejs](https://vuejs.org/)
+* [Vite](https://es.vite.dev/)
 
 ## Getting Started
 
